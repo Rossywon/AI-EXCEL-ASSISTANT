@@ -66,12 +66,14 @@ client = OpenAI(api_key=API_KEY, base_url="https://api.groq.com/openai/v1")
 "Show top 10 products by revenue"
 
 "Calculate average discount per category"
------To-Do
- Add support for multiple charts per query
 
- Implement dark mode UI
 
- Add Google Sheets integration
+     To-Do
+ -Add support for multiple charts per query
+
+ -Implement dark mode UI
+
+ -Add Google Sheets integration
 
  contact:
  email:rosewonah@gmail.com
