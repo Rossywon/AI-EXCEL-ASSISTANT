@@ -43,10 +43,12 @@ cd AI-EXCEL-ASSISTANT
 pip install -r requirements.txt
 
 3. Run the Streamlit app
+
 streamlit run app.py
 
 🛠 Requirements
 Your requirements.txt includes:
+
 streamlit==1.47.1
 pandas==2.3.1
 openai==1.97.1
